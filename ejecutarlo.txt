@@ -1,0 +1,17 @@
+para ejecutar el programa debo de poner el npm i
+luego el node index.js
+
+//repaso de git 
+git init iniciar repositorio
+git add . para identificar lo modificado
+git status para ver lo que se cambio o se agrego
+git config --global user.name "" para añadirle tu nombre al proyecto
+git config --global user.email "" correo
+git config --global --unset credential //borrar credenciales
+git commit -m ""se añade comentario para registrar lo nuevo
+git push si ya esta creado si no, coger el push del repositorio
+
+//comenzaremos a usar MongoDB para bases de datos
+npm install dotenv --save
+import 'dotenv/config'
+npm i mongoose
